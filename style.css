@@ -1,0 +1,50 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.kerangka {
+    width: 85%;
+    margin: auto;
+    background-color:#1c3443;
+    color: linen;
+}
+body {
+    background-color: rgb(48, 64, 70);
+}
+.header{
+  background-color: #24333d;
+}
+.header a{
+  text-decoration: none;
+  color: white;
+}
+.header ul li {
+    font-size: xxx-large;
+    display: inline-block;
+    margin-right: 10px;
+    font-variant: small-caps;
+}
+.header a:hover{
+    background-color: darkcyan;
+    color: azure;
+}
+.judul {
+  margin-left: 10px;
+}
+.piano {
+  width: 100%;
+}
+.semifooter {
+  background-color:#24333d;
+  font-size: larger;
+  color: white;
+  padding: 7px;
+}
+.kerangka p {
+  padding: 5px;
+  text-indent: 40px;
+  text-align: justify;
+}
+.footer{
+  background-color: rgb(26, 22, 22);
+}
